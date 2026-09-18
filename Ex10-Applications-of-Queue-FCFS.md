@@ -1,5 +1,5 @@
 # Ex10 Applications of Queue – FCFS
-## DATE:
+## DATE: 21 - 08 - 2026
 ## AIM:
 To write a Java program to calculate the turnaround time of each process given their burst time and waiting time in First Come first Serve scheduling algorithm.
 

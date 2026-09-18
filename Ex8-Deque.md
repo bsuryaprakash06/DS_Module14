@@ -1,5 +1,5 @@
 # Ex8 Deque
-## DATE:
+## DATE: 20 - 08 - 2026
 ## AIM:
 To write a Java program to count the number of elements present in the deque.
 
